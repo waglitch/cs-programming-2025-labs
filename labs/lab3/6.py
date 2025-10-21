@@ -4,8 +4,3 @@ y=1
 while x <= fib:
     print(x, end=" ")
     x,y = y, x+y
-
-
-
-
-
