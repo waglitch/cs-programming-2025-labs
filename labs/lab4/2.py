@@ -7,10 +7,3 @@ elif month in (6, 7, 8):
     print("Лето")
 else:
     print("Осень")
-
-
-
-
-
-
-
