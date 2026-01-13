@@ -1,3 +1,2 @@
-numbers= list(map(int,input("Введите 5 целых чисел через пробел:").split()))
-squares = [x*x for x in numbers ]
-print(squares)
+numbers = [2,7,5,3,8]
+print(*map(lambda x: x**2,numbers))
