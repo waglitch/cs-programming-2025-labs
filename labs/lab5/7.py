@@ -13,4 +13,4 @@ def find_english_translation(russian_word):
     return "Перевод не найден"
 word = input("Введите русское слово: ")
 result = find_english_translation(word. lower ())
-print (f"Английский перевод: (result)")
+print (f"Английский перевод: {result}")
