@@ -4,5 +4,5 @@ def sort_tuple(lst):
 
 
 x = [9, 0.66, "hello", "apps", 99, 14, None, "True"]
-result = (tuple(x))
+result = sort_tuple(tuple(x))
 print(result)
