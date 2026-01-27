@@ -1,0 +1,15 @@
+[
+  {
+    "id": "8a5a2edd-4011-4a75-829a-7868e5f45c1c",
+    "type": "sale",
+    "timestamp": "2026-01-26T23:37:02.017807",
+    "details": {
+      "column": 8,
+      "fuel_type": "ДТ",
+      "liters": 123.0,
+      "price_per_liter": 56.8,
+      "total_price": 6986.4,
+      "tank_id": "ДТ_1"
+    }
+  }
+]

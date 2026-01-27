@@ -1,0 +1,76 @@
+[
+  {
+    "id": "АИ-92_1",
+    "fuel_type": "АИ-92",
+    "max_volume": 20000,
+    "current_volume": 12400,
+    "min_level": 1000,
+    "enabled": true,
+    "connected_to": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "АИ-95_1",
+    "fuel_type": "АИ-95",
+    "max_volume": 20000,
+    "current_volume": 9800,
+    "min_level": 1000,
+    "enabled": true,
+    "connected_to": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": "АИ-95_2",
+    "fuel_type": "АИ-95",
+    "max_volume": 20000,
+    "current_volume": 1200,
+    "min_level": 1000,
+    "enabled": false,
+    "connected_to": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "АИ-98_1",
+    "fuel_type": "АИ-98",
+    "max_volume": 15000,
+    "current_volume": 10000,
+    "min_level": 800,
+    "enabled": false,
+    "connected_to": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "ДТ_1",
+    "fuel_type": "ДТ",
+    "max_volume": 25000,
+    "current_volume": 15477.0,
+    "min_level": 1500,
+    "enabled": true,
+    "connected_to": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+]
