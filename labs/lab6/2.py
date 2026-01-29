@@ -12,6 +12,6 @@ def calculate_profit(a, n):
         total *= (1 + rate / 100)
     profit = total - a
     return round(profit, 2)
-
+    
 result = calculate_profit(10000, 4)
 print(result) 

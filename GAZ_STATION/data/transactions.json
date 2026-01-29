@@ -1,0 +1,50 @@
+[
+  {
+    "id": "8a5a2edd-4011-4a75-829a-7868e5f45c1c",
+    "type": "sale",
+    "timestamp": "2026-01-26T23:37:02.017807",
+    "details": {
+      "column": 8,
+      "fuel_type": "ДТ",
+      "liters": 123.0,
+      "price_per_liter": 56.8,
+      "total_price": 6986.4,
+      "tank_id": "ДТ_1"
+    }
+  },
+  {
+    "id": "f2665a20-bf5e-4661-9836-5bfacc69274f",
+    "type": "tank_toggle",
+    "timestamp": "2026-01-27T12:37:46.900776",
+    "details": {
+      "tank_id": "АИ-95_2",
+      "action": "включена",
+      "new_state": true,
+      "volume": 1200
+    }
+  },
+  {
+    "id": "7f1dd161-351d-4520-94d6-35f48a75662b",
+    "type": "tank_toggle",
+    "timestamp": "2026-01-27T12:37:58.424801",
+    "details": {
+      "tank_id": "АИ-98_1",
+      "action": "включена",
+      "new_state": true,
+      "volume": 10000
+    }
+  },
+  {
+    "id": "b0e720e0-1993-4cd9-b87f-8eebe9215541",
+    "type": "sale",
+    "timestamp": "2026-01-27T12:38:27.175269",
+    "details": {
+      "column": 4,
+      "fuel_type": "АИ-92",
+      "liters": 100.0,
+      "price_per_liter": 55.5,
+      "total_price": 5550.0,
+      "tank_id": "АИ-92_1"
+    }
+  }
+]

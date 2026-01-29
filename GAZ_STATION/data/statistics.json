@@ -1,10 +1,10 @@
 {
-  "total_cars": 1,
-  "total_income": 6986.4,
+  "total_cars": 2,
+  "total_income": 12536.4,
   "fuel_stats": {
     "АИ-92": {
-      "liters": 0.0,
-      "income": 0.0
+      "liters": 100.0,
+      "income": 5550.0
     },
     "АИ-95": {
       "liters": 0.0,
